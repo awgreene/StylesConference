@@ -1,2 +1,1 @@
-# Tutorials
-A compilation of various tutorials I've completed online!
+You can repeat this exercise here: http://learn.shayhowe.com/html-css/
